@@ -1,4 +1,4 @@
-playwrightplaywright~=1.33.0
+playwrightplaywright~=1.13.0
 
 
 
